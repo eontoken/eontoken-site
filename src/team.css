@@ -1,0 +1,44 @@
+#teamInfo{
+    margin-top: 100px;
+    color: #fff;
+    padding-bottom: 100px;
+}
+
+#teamInfo h1{
+    text-align: center;
+    font-size: 2rem;
+    margin: 3rem 0;
+    font-weight: 400;
+}
+#teamInfo img{
+    width: 190px;
+    height: 190px;
+}
+#teamInfo div{
+    text-align: center;
+}
+#teamInfo h2{
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin: 1rem 0 0.5rem;
+}
+#teamInfo p{
+    font-size: 1.0rem;
+    color: #e2e2e2;
+}
+#teamInfo h6 a img{
+    width: 18px;
+    height: 18px;
+}
+#teamInfo h6 a img:first-child{
+    display: inline-block;
+}
+#teamInfo h6 a img:last-child{
+    display: none;
+}
+#teamInfo h6 a:hover img:first-child{
+    display: none;
+}
+#teamInfo h6 a:hover img:last-child{
+    display: inline-block;
+}

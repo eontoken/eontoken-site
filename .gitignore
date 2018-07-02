@@ -1,0 +1,5 @@
+.idea
+gulpfile.js
+node_modules
+package-lock.json
+scss

@@ -1,0 +1,42 @@
+.root {
+  background-color: black;
+  min-height: 100vh;
+}
+
+.content-root {
+  text-align: center;
+  padding-top: 6rem;
+  z-index: 9999;
+}
+
+.body-text {
+  font-size: 1rem;
+}
+
+.logo {
+  width: 8rem;
+}
+
+.main-button {
+  background: linear-gradient(135deg, #59bded,#6d72b4,#b960a6);
+  color: white;
+  border-radius: 5px;
+  border-width: thick;
+  border-color: black;
+  height: 2.5rem;
+}
+
+.color-main {
+  color: #b960a6
+}
+
+.input-main {
+  background-color: rgba(255,255,255,0.1);
+  border: none;
+  border-radius: 5px;
+}
+
+.error-msg {
+  font-size: 1rem;
+  color: brown;
+}

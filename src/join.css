@@ -1,0 +1,11 @@
+.personal-data {
+    font-size: 2rem;
+}
+
+.personal-icon {
+    width: 6vh
+}
+
+a, a:hover, a:focus,a:active{
+    text-decoration: none;
+}
